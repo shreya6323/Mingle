@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "584688370492",
+    "firebase_url": "https://mingle1-bfdaf-default-rtdb.firebaseio.com",
+    "project_id": "mingle1-bfdaf",
+    "storage_bucket": "mingle1-bfdaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584688370492:android:852d7b055c260cdba95439",
+        "android_client_info": {
+          "package_name": "com.example.mingle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584688370492-6l5rdhgdqdqt8lmp3gepu5o2tfv4s59a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mingle",
+            "certificate_hash": "ad3a7d91dc75ddf50e6f14b922e11ff6e46a1899"
+          }
+        },
+        {
+          "client_id": "584688370492-8vjcrhd204aa9u5f585pslusrelfvr69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCntuNciP-fL9enivMFT6vpTUsh9gS_eZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584688370492-8vjcrhd204aa9u5f585pslusrelfvr69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

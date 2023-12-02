@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/settings"
+        android:title="Settings"
+        app:showAsAction="never"
+        />
+    <item android:id="@+id/video"
+        android:title="video"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/video_camera"
+ />
+
+    <item android:id="@+id/call"
+        android:title="call"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/baseline_call_24"
+/>
+
+    <item android:id="@+id/arrow"
+        android:title="call"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/baseline_arrow_back_24"
+        />
+
+
+
+
+
+
+
+
+    <item android:id="@+id/new_group"
+        android:title="New group"
+        app:showAsAction="never"
+        />
+    <item android:id="@+id/logout"
+        android:title="Logout"
+        app:showAsAction="never"
+        />
+</menu>
