@@ -2,6 +2,13 @@
 
 📱Mingle is an Android application meticulously crafted to foster social connections through one-on-one and chat room features.
 
+## Explore 🚀
+ 🔗[Mingle Demo](https://vimeo.com/930312156)
+
+
+
+
+
 ## Features
 
 👤 **User Profiles**: Users can create profiles with custom bio, profile photo, and name, allowing them to express themselves creatively.
@@ -23,13 +30,18 @@
 
 🔥 **Firebase**: Leveraged Firebase for backend services, including user authentication, real-time database, and cloud storage.
 
-## Explore Mingle
-
-🔗 [Explore](https://vimeo.com/930312156) 
-
 ## Installation
 
-[Provide installation instructions here if applicable]
+To install the Mingle Android app, follow these steps:
+
+1. **Download APK**: Download the APK file from the release folder of this repository.
+
+2. **Enable Installation from Unknown Sources**: Before installing the app, make sure you have enabled installation from unknown sources on your Android device. You can do this by going to Settings > Security > Unknown Sources and toggling the switch to enable it.
+
+3. **Install APK**: Once you have downloaded the APK file, navigate to the location where it was downloaded using a file manager app on your Android device. Tap on the APK file to begin the installation process. Follow the on-screen prompts to complete the installation.
+
+That's it! You should now have the Mingle app installed on your Android device. Enjoy connecting and chatting with friends!
+
 
 ## Created By
 
